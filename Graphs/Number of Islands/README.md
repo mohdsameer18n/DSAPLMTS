@@ -9,7 +9,7 @@ Given an `m x n` 2D binary grid `grid` where:
 
 Return the **number of islands**.
 
-An island is formed by connecting adjacent lands **horizontally or vertically**. You may assume all four edges of the grid are surrounded by water.
+An island is formed by connecting adjacent lands **horizontally or vertically**. You may assume as all four edges of the grid are surrounded by water.
 
 ---
 
