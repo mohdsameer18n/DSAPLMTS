@@ -1,4 +1,4 @@
-# Lowest Common Ancestor (LCA) & Topological Sort
+# Lowest Common Ancestor (LCA) & Topological Sort.
 
 ## Lowest Common Ancestor (LCA)
 
